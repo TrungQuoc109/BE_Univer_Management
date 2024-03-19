@@ -1,4 +1,4 @@
-import credentials from "../constants/univer-management-3379390da56d.json" assert { type: "json" };
+import {credentials} from "../constants/univer-management-3379390da56d.js" ;
 import { google } from "googleapis";
 const SCOPES = [
     "https://www.googleapis.com/auth/spreadsheets",
