@@ -1,4 +1,4 @@
-export {
+export const credentials = {
     "type": "service_account",
     "project_id": "univer-management",
     "private_key_id": "3379390da56d835b7e5ddf609b385781118037fd",
